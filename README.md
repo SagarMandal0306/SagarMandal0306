@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/SagarMandal0306/SagarMandal0306/main/style.css">
 
 <h1 align="center">Hi 👋, I'm Sagar Mandal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
