@@ -6,7 +6,7 @@
 <img align="right" alt="img" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarmandal0306&label=Profile%20views&color=0e75b6&style=flat" alt="sagarmandal0306" /> </p>
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **Angular and ASP.NET CORE**
 
 - 👨‍💻 All of my projects are available at [http://sagarmandal.rf.gd/?i=1](http://sagarmandal.rf.gd/?i=1)
 
