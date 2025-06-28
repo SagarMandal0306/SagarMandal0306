@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Sagar+Mandal+%F0%9F%91%8B;Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+Amazing+Web+Experiences+%E2%9C%A8;Always+Learning+New+Technologies+%F0%9F%93%9A)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Sagar+Mandal+%F0%9F%91%8B;Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+Amazing+Web+Experiences+%E2%9C%A8;Desktop+%26+Mobile+Application+Developer+%F0%9F%92%BB;Always+Learning+New+Technologies+%F0%9F%93%9A)
 
 </div>
 
@@ -15,11 +15,12 @@
 🎯 **Passionate Full Stack Developer** crafting digital experiences  
 🌟 **Frontend Enthusiast** with a love for modern UI/UX  
 ⚡ **Backend Architect** building scalable solutions  
+🖥️ **Desktop App Developer** creating cross-platform applications  
 🚀 **Tech Explorer** always pushing boundaries  
 
 • 🌱 Currently mastering **React & Laravel**  
 • 💻 Portfolio: [sagarmandal.rf.gd](http://sagarmandal.rf.gd/?i=1)  
-• 💬 Ask me about **React, PHP, .NET, Angular**  
+• 💬 Ask me about **React, PHP, .NET, Angular, Desktop Apps**  
 • 📧 Reach me: **mrsagarmandal777@gmail.com**  
 • ⚡ Fun fact: **I turn coffee into code** ☕️→💻  
 
@@ -86,6 +87,30 @@
 
 </div>
 
+## 🖥️ Desktop & Cross-Platform Development
+
+<div align="center">
+
+### Desktop Frameworks
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![WinForms](https://img.shields.io/badge/WinForms-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![WinUI 3](https://img.shields.io/badge/WinUI_3-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+### Cross-Platform Solutions
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white)
+![Flutter Desktop](https://img.shields.io/badge/Flutter_Desktop-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
+### Desktop Technologies
+![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white)
+![Win32 API](https://img.shields.io/badge/Win32_API-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Avalonia](https://img.shields.io/badge/Avalonia-6A4C93?style=for-the-badge&logo=avalonia&logoColor=white)
+![UWP](https://img.shields.io/badge/UWP-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
 ## 🛠️ DevOps & Tools
 
 <div align="center">
@@ -95,6 +120,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 </div>
 
@@ -126,19 +152,21 @@
 
 ```javascript
 const sagar = {
-    currentlyLearning: ["Angular", "ASP.NET Core", "Docker"],
-    workingOn: "Full Stack Web Applications",
+    currentlyLearning: ["Angular", "ASP.NET Core", "Docker", ".NET MAUI", "Electron"],
+    workingOn: "Full Stack Web Applications & Desktop Applications",
     lookingToCollaborate: "Open Source Projects",
-    askMeAbout: ["React", "PHP", ".NET", "Web Development"],
+    askMeAbout: ["React", "PHP", ".NET", "Desktop Development", "Cross-Platform Apps"],
     technologies: {
         frontEnd: ["React", "Angular", "JavaScript", "GSAP", "Three.js"],
-        backEnd: ["Laravel", ".NET", "PHP", "C#"],
-        databases: ["MySQL", "SQL Server"],
+        backEnd: ["Laravel", ".NET", "PHP", "C#", "ASP.NET Core"],
+        desktop: ["WPF", "WinForms", "Electron", ".NET MAUI", "WinUI 3"],
+        crossPlatform: ["Tauri", "Flutter Desktop", "Avalonia", "Qt"],
+        databases: ["MySQL", "SQL Server", "SQLite"],
         devOps: ["Docker", "Git", "Linux"],
-        tools: ["VS Code", "Postman", "Canva"]
+        tools: ["VS Code", "Visual Studio", "Postman", "Canva"]
     },
-    architecture: ["Single Page Applications", "RESTful APIs", "Microservices"],
-    currentFocus: "Building scalable and performant web applications"
+    architecture: ["Single Page Applications", "RESTful APIs", "Microservices", "Desktop Apps"],
+    currentFocus: "Building scalable web applications and modern desktop solutions"
 };
 ```
 
@@ -152,7 +180,7 @@ const sagar = {
   <img src="https://img.shields.io/badge/🌟_Portfolio_Website-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-*🚀 Check out my portfolio for more amazing projects!*
+*🚀 Check out my portfolio for more amazing projects including desktop applications!*
 
 </div>
 
